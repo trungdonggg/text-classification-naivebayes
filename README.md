@@ -33,7 +33,7 @@
     
     NaiveBayes, XGBClassifier, and Ridge classifiers to enhance the predictive 
     
-    accuracy of our model. 1
+    accuracy of our model. 
 
 
 
