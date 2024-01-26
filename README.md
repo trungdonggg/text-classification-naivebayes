@@ -1,4 +1,4 @@
-Text-classification-naivebayes
+# Text-classification-naivebayes
     
     The purpose of this project is to make a text sentiment analysis to classify 
     
@@ -10,7 +10,7 @@ Text-classification-naivebayes
 
 
 
-What is NaiveBayes method?
+# What is NaiveBayes method?
     
     Naive Bayes is a probabilistic machine learning algorithm based on Bayes' theorem. 
     
@@ -26,9 +26,9 @@ What is NaiveBayes method?
 
 
 
-Blending model 
+# Blending model 
 
-Introduction:
+## Introduction:
 
     In this project, we aim to implement a voting classifier using the RandomForest, 
     
