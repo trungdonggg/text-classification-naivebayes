@@ -30,6 +30,7 @@ the class label, which simplifies the computation.
 
 # Blending model
 
+![Model](data/diagram.jpeg)
 
 In this project, we aim to implement a voting classifier using the RandomForest, 
 
